@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hello, welcome. 
+## This is my perfil 💜
 
-<!--
-**euseraiko/euseraiko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+My name is Karina!
+  
+- i´m studying [alura](https://WWW.ALURA.COM.BR)
+- i have seveteen years old.
+- programation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  **ctt:** 00001091238455sp@al.educacao.sp.gov.br
+
+
+![](https://media1.tenor.com/m/C9EatUCfQHQAAAAC/luffy-one-piece.gif)
